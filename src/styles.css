@@ -1,0 +1,25 @@
+body {
+  background-color: grey;
+}
+.timer {
+  margin-top: 100px;
+  display: flex;
+  width: 800px;
+  justify-content: space-around;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.field {
+  padding: 20px;
+  display: flex;
+  border: 1px solid black;
+  border-radius: 8px;
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.value {
+  margin-right: 10px;
+}
